@@ -5,4 +5,7 @@ Schemas are created from [Polygon ID Schema Explorer](https://schema-builder.pol
 
 ## Schemas
 
-- `ProofOfMachineHood`: used in PolygonID project
+- `ProofOfMachinehood`: used in PolygonID project
+
+## Update PolygonID Credential Images
+To update the issued credential background images, title and description, edit the `metadata` folder.
